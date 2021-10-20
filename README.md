@@ -30,3 +30,5 @@ Advice - for REST exception thrower.
 Configuration - Swagger and Cors Configuration.
 CLR - Command Line Runner - for tests/Mock Data.
 Util - for Code in colors.
+
+JAVADOCS avilable to download
